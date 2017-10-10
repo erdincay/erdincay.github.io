@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Embedded Development
+title:  Embedded Engineering
 date:   2017-10-03 09:57:10 +0100
-description: Embedded Development
+description: Embedded Engineering
 img: post-embedded.jpg # Add image post (optional)
 tags: [Blog, Embedded]
 author: Erdinc Ay # Add name author (optional)
