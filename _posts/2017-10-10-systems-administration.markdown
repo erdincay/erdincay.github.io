@@ -10,9 +10,10 @@ author: Erdinc Ay # Add name author (optional)
 Network and Systems Administration
 
 I worked in the following fields:
-general network administration 
-maintaining network attached storages
-hosting different kinds of systems
-maintaining virtualization environment
-cable management of network
-first, second and third level support
+
+- general network administration 
+- maintaining network attached storages
+- hosting different kinds of systems
+- maintaining virtualization environment
+- cable management of network
+- first, second and third level support
