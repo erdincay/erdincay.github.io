@@ -7,3 +7,6 @@ img: post-chemistry.jpg # Add image post (optional)
 tags: [Blog, Chemistry]
 author: Erdinc Ay # Add name author (optional)
 ---
+(Bio-)Chemical Computing
+
+Interesting.

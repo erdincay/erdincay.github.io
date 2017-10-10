@@ -7,3 +7,6 @@ img: post-science.jpg # Add image post (optional)
 tags: [Blog, Science]
 author: Erdinc Ay # Add name author (optional)
 ---
+Scientific Research
+
+I am able to create/write technical documents / articles and scientific papers with scientific methods.
