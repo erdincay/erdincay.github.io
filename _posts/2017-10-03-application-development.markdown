@@ -4,7 +4,7 @@ title:  Application Development
 date:   2017-10-03 01:57:10 +0100
 description: Application Development
 img: post-development.jpg # Add image post (optional)
-tags: [Blog, Application]
+tags: [Blog, Development]
 author: Erdinc Ay # Add name author (optional)
 ---
 General Purpose Application Development
