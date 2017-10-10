@@ -3,7 +3,7 @@ layout: post
 title:  Web Services
 date:   2017-10-10 07:57:10 +0100
 description: Web Services
-img: post-web.jpg # Add image post (optional)
+img: post-services.jpg # Add image post (optional)
 tags: [Blog, Web]
 author: Erdinc Ay # Add name author (optional)
 ---
