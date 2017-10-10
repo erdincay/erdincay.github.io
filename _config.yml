@@ -9,7 +9,7 @@ url: "http://erdincay.github.io" # the base hostname & protocol for your site
 # Author settings
 author: Erdinc Ay # add your name
 author-pic: erdincay.jpg
-about-author: My name is Erdinc Ay. I’m a full-time developer who’s been exploring the information technology sector for over 7 years.
+about-author: Erdinc Ay - a full-time developer who’s been exploring the information technology sector for over 7 years.
 
 # Contact links
 email: erdinc.ay@outlook.de # Add your Email address
@@ -32,7 +32,7 @@ discus_identifier: # Add your discus identifier
 analytics: # Google Analytics
 
 # Paginate
-paginate: 7
+paginate: 5
 paginate_path: /page:num/
 
 # Build settings

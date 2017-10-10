@@ -9,5 +9,5 @@ author: Erdinc Ay # Add name author (optional)
 ---
 Web Sites, Remote Services, Single Page Applications
 
-- Single Page Applications (SPA) are the industries standard for creating web sites or the so called web applications
+- Single Page Applications (SPA) are the industry standard for creating the so called web applications
 - Microservices (μServices) are the better way for creating Service Oriented Architectures (SOA)
