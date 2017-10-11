@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Mechatronic Robotics
+title:  Mechatronics Robotics
 date:   2017-10-11 07:57:10 +0100
-description: Mechatronic Robotics
+description: Mechatronics Robotics
 img: post-robotics.jpg # Add image post (optional)
 tags: [Blog, Robotics]
 author: Erdinc Ay # Add name author (optional)
