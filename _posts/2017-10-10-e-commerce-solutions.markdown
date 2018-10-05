@@ -4,7 +4,7 @@ title:  e-Commerce Solutions
 date:   2017-10-10 05:57:10 +0100
 description: e-Commerce
 img: post-ecommerce.jpg # Add image post (optional)
-tags: [Blog, e-Commerce]
+tags: [e-Commerce Systems, Online Business]
 author: Erdinc Ay # Add name author (optional)
 ---
 e-Commerce Solutions

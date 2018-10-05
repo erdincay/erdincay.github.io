@@ -4,7 +4,7 @@ title:  Scientific Research
 date:   2017-10-11 07:57:10 +0100
 description: Scientific Research
 img: post-science.jpg # Add image post (optional)
-tags: [Blog, Science]
+tags: [Science, Research]
 author: Erdinc Ay # Add name author (optional)
 ---
 Scientific Research

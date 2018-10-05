@@ -4,7 +4,7 @@ title:  Database Engineering
 date:   2017-10-03 09:57:10 +0100
 description: Database Engineering
 img: post-database.jpg # Add image post (optional)
-tags: [Blog, Database]
+tags: [Databases, Data Storage]
 author: Erdinc Ay # Add name author (optional)
 ---
 Tools and Methods used in Database Engineering
