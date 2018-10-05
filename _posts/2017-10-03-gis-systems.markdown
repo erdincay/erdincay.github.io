@@ -9,5 +9,5 @@ author: Erdinc Ay # Add name author (optional)
 ---
 GIS can mean a lot ...
 
-Geo-Information-Systems and Governmental Information Systems are important.
+Geo-Information-Systems and Governmental-Information-Systems are important.
 
