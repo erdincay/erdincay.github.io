@@ -28,13 +28,13 @@ Another aspect of storage is the reaction with gases such as ozone and the evapo
 Since there are a variety of combinations of inks and media, it is difficult to make general statements about the life and durability of ink prints. Pigment inks usually have a higher light resistance than dye-based inks, so this is the best way to prevent fading of paper. However, a smaller color spectrum must be accepted here.
 
 
-# Inkjet Print Longevity
+## Inkjet Print Longevity
 
  Even the cheapest current inkjet printer will produce a near perfect print when it’s brand new. The important differences between printers only show up when you change cartridges, leave the machine unused for a couple of months, or look at your prints a couple of years later.  
 
 I’ve had a few inkjet printers and I’ve looked many times on Google for good sources of information about them, without ever finding a holy grail. Magazine reviews of the printers always stress their latest features and the official Wilhelm Research longevity tests are conducted under such ideal laboratory conditions they bear little resemblance to real life. I can’t believe such basic information doesn’t exist somewhere on the web, but as I can’t find it, I decided to write my own guide. I was particularly frustrated by my prints fading ridiculously fast, even when shielded from sunlight. Last year my mum, who’s an artist, was also getting concerned about the fading of her digital prints, so I set up my own tests (see below).
 
-SUMMARY
+### SUMMARY
 If you have an Epson, your prints won't fade, but your whole printer may clog up and have to be chucked out if you leave it unused for more than a few weeks.
 If you have an HP or a Canon, the inks fade because they react with the air, so laminate your prints to stop them fading.
 Its worth buying the manufacturers own ink cartridges, but not their own papers. 
@@ -59,7 +59,7 @@ The results are dramatic. Epson produces colours on all papers that have good re
  
 HP black ink fades really badly, though the other colours aren’t quite as bad. With standard inkjet paper, or artist’s watercolour paper, the black was pale grey after the test. HPs own papers are much better, but no better than the no name brand photo paper.  None are a match for the blacks of the Epson, even on plain paper.
 
-## SUMMARY
+### SUMMARY
 
 - If you don’t want your prints to fade, buy an Epson and use Epson inks, and then you can use any paper you want.
 - If you’re likely to leave your printer unused for a few months, buy an HP or a Canon.
