@@ -10,6 +10,11 @@ author: Erdinc Ay # Add name author (optional)
 
 # Paper Printing / Paper Prints
 
+## IMPORTANT INFORMATION
+
+WORKING DRAFT! This text is a working draft and the elements of it are texts not written by myself, but are all owned by their respective owners. I have copied them to here, to summarize them into my own work and reference them appropriately. Sources are listed below in the sources area.
+
+
 ## Light resistance of the printouts
 
 Media to be printed, such as text or image files, can always be displayed on the screen as long as the hardware and software are available. However, the question of the light resistance of printed media arises. There is no material that can protect prints from destruction, fading, in the long term. However, it is possible to influence the life of a printout by precise selection of printer ink and papers. The most important rule here is that the fewer chemicals there are in the paper, coating and ink, the lower the risk that one of the three components mentioned will start to react with each other or with a substance from the environment.
