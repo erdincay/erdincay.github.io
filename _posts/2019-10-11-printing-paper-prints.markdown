@@ -54,7 +54,7 @@ The results are dramatic. Epson produces colours on all papers that have good re
  
 HP black ink fades really badly, though the other colours aren’t quite as bad. With standard inkjet paper, or artist’s watercolour paper, the black was pale grey after the test. HPs own papers are much better, but no better than the no name brand photo paper.  None are a match for the blacks of the Epson, even on plain paper.
 
-SUMMARY
+## SUMMARY
 
 - If you don’t want your prints to fade, buy an Epson and use Epson inks, and then you can use any paper you want.
 - If you’re likely to leave your printer unused for a few months, buy an HP or a Canon.
@@ -71,7 +71,7 @@ Ink from inkjet printers usually do not last long. The color bleaches out over t
 Also photos later printed on photo paper with the HP 500C (C stands for Color) are now slightly yellowish discolored. Often pale or have high color loss so that you can hardly see what used to what color had.
 
 
-Sources: 
+# Sources: 
 - Light resistance - Source: schwarztinte.de
 - Color changes - Source: schwarztinte.de
 - Inkjet Print Logevity - Sources: Tim Hunkin @ timhunkin.com
