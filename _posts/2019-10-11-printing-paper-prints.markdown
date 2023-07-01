@@ -67,7 +67,7 @@ HP black ink fades really badly, though the other colours aren’t quite as bad.
 - If you don’t want hassle when changing ink cartridges, buy the manufacturers cartridges, not re-manufactured ones or refilled ones – and avoid chip resetters.
 
 
-# HP - Printers
+## HP - Printers
 
 Ink from inkjet printers usually do not last long. The color bleaches out over time You can see it if you enlarge the font with a magnifying glass and note the color value after printing and then compare 2 years later. Even photos that are printed with ink printers bleach out in daylight with time or become yellowish discolored.
 
@@ -76,7 +76,7 @@ Ink from inkjet printers usually do not last long. The color bleaches out over t
 Also photos later printed on photo paper with the HP 500C (C stands for Color) are now slightly yellowish discolored. Often pale or have high color loss so that you can hardly see what used to what color had.
 
 
-# Sources: 
+## Sources: 
 - Light resistance - Source: schwarztinte.de
 - Color changes - Source: schwarztinte.de
 - Inkjet Print Logevity - Sources: Tim Hunkin @ timhunkin.com
