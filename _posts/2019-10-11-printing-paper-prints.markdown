@@ -23,7 +23,7 @@ Another aspect of storage is the reaction with gases such as ozone and the evapo
 Since there are a variety of combinations of inks and media, it is difficult to make general statements about the life and durability of ink prints. Pigment inks usually have a higher light resistance than dye-based inks, so this is the best way to prevent fading of paper. However, a smaller color spectrum must be accepted here.
 
 
-# Inkjet Print Logevity
+# Inkjet Print Longevity
 
  Even the cheapest current inkjet printer will produce a near perfect print when it’s brand new. The important differences between printers only show up when you change cartridges, leave the machine unused for a couple of months, or look at your prints a couple of years later.  
 
