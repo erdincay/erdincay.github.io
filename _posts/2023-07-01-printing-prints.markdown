@@ -2,7 +2,7 @@
 layout: post
 title:  Printing Prints
 date:   2023-07-01 11:37:00 +0100
-description: Printing/Prints
+description: Printing Prints
 img: post-printing.jpg # Add image post (optional)
 tags: [Printing, Prints]
 author: Erdinc Ay # Add name author (optional)
