@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Printing Prints
+title:  Paper Prints
 date:   2023-06-30 07:07:10 +0100
-description: Printing Prints
+description: Paper Prints
 img: post-printing.jpg # Add image post (optional)
 tags: [Printing, Prints]
 author: Erdinc Ay # Add name author (optional)
 ---
-Printing/Prints
+Paper Printing / Paper Prints
 
 
 Tinte von Tintendruckern halten in der Rregel nicht lange. Die Farbe Bleicht mit der Zeit aus Man sieht es wenn man die Schrift mit einer Luper Vergrößert und den Farbwert nach dem Druck Notiert und dann 2 Jahre Später Vergleicht. Auch Fotos die mit Tintendruckern Gedruckt werden Bleichen bei Tageslicht mit der Zeit aus oder werden Gelblich verfärbt.
