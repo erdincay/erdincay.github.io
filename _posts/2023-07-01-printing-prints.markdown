@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Printing/Prints
+title:  Printing Prints
 date:   2023-07-01 11:37:00 +0100
 description: Printing/Prints
 img: post-printing.jpg # Add image post (optional)
