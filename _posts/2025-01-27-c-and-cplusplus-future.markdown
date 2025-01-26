@@ -1,4 +1,13 @@
-# The Future of C and C++: Memory Safety Projects for C and C++
+---
+layout: post
+title:  C and C++
+date:   2025-01-27 00:15:00 +0100
+description: C and C++
+img: post-candcpp.jpg # Add image post (optional)
+tags: [Development, Coding, Languages]
+author: Erdinc Ay # Add name author (optional)
+---
+The Future of C and C++: Memory Safety Projects for C and C++
 
 Here are **three projects** and their **benefits and negatives**:
 
